@@ -45,4 +45,5 @@ ldconfig
 所以要将/usr/local/lib中相关的tesseract和leptonica的library拷贝到/usr/lib当中
 
 最后把所需的字典　拷贝到　tesseract　安装目录下即可
+＊＊＊＊本项目的数据包未经训练＊＊＊＊＊
 
